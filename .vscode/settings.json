@@ -1,0 +1,4 @@
+{
+  "editor.defaultFormatter": null,
+	"python.formatting.provider": "autopep8",
+}
