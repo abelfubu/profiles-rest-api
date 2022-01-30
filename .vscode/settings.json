@@ -1,4 +1,7 @@
 {
   "editor.defaultFormatter": null,
 	"python.formatting.provider": "autopep8",
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
 }
